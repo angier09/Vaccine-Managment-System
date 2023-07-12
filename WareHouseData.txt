@@ -1,0 +1,178 @@
+-----WAREHOUSE DATA------
+Warehouse name: Kobolt
+Warehouse Location: Islamabad
+Warehouse Capacity: 300
+Warehouse's supplier ID: 6666
+Batches Info:-
+Batch 1's ID stored in warehouse : 1111
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Pfizer
+Batch 2's ID stored in warehouse : 1261
+Batch 2's size stored in warehouse: 2
+Batch 2's vaccine stored in warehouse: Pfizer
+Batch 3's ID stored in warehouse : 2222
+Batch 3's size stored in warehouse: 2
+Batch 3's vaccine stored in warehouse: SinoVac
+Batch 4's ID stored in warehouse : 2372
+Batch 4's size stored in warehouse: 2
+Batch 4's vaccine stored in warehouse: SinoVac
+Total Vaccines stored: 8
+-----WAREHOUSE DATA------
+Warehouse name: Kobolt
+Warehouse Location: Islamabad
+Warehouse Capacity: 300
+Warehouse's supplier ID: 6666
+Batches Info:-
+Batch 1's ID stored in warehouse : 1261
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Pfizer
+Batch 2's ID stored in warehouse : 2372
+Batch 2's size stored in warehouse: 2
+Batch 2's vaccine stored in warehouse: SinoVac
+Total Vaccines stored: 4
+-----WAREHOUSE DATA------
+Warehouse name: GHQ
+Warehouse Location: Rawalpindi
+Warehouse Capacity: 200
+Warehouse's supplier ID: 2233
+Batches Info:-
+Batch 1's ID stored in warehouse : 1111
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Pfizer
+Batch 2's ID stored in warehouse : 1261
+Batch 2's size stored in warehouse: 2
+Batch 2's vaccine stored in warehouse: Pfizer
+Total Vaccines stored: 4
+-----WAREHOUSE DATA------
+Warehouse name: GHQ
+Warehouse Location: Rawalpindi
+Warehouse Capacity: 200
+Warehouse's supplier ID: 2233
+Batches Info:-
+Batch 1's ID stored in warehouse : 1261
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Pfizer
+Total Vaccines stored: 2
+-----WAREHOUSE DATA------
+Warehouse name: Simons
+Warehouse Location: Islamabad
+Warehouse Capacity: 300
+Warehouse's supplier ID: 8888
+Batches Info:-
+Batch 1's ID stored in warehouse : 2222
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Pfizer
+Batch 2's ID stored in warehouse : 2372
+Batch 2's size stored in warehouse: 2
+Batch 2's vaccine stored in warehouse: Pfizer
+Batch 3's ID stored in warehouse : 3333
+Batch 3's size stored in warehouse: 2
+Batch 3's vaccine stored in warehouse: Moderna
+Batch 4's ID stored in warehouse : 3483
+Batch 4's size stored in warehouse: 2
+Batch 4's vaccine stored in warehouse: Moderna
+Total Vaccines stored: 8
+-----WAREHOUSE DATA------
+Warehouse name: Simons
+Warehouse Location: Islamabad
+Warehouse Capacity: 300
+Warehouse's supplier ID: 8888
+Batches Info:-
+Batch 1's ID stored in warehouse : 2372
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Pfizer
+Batch 2's ID stored in warehouse : 3483
+Batch 2's size stored in warehouse: 2
+Batch 2's vaccine stored in warehouse: Moderna
+Total Vaccines stored: 4
+-----WAREHOUSE DATA------
+Warehouse name: VacWare
+Warehouse Location: Islamabad
+Warehouse Capacity: 200
+Warehouse's supplier ID: 2222
+Batches Info:-
+Batch 1's ID stored in warehouse : 3333
+Batch 1's size stored in warehouse: 3
+Batch 1's vaccine stored in warehouse: Pfizer
+Batch 2's ID stored in warehouse : 3483
+Batch 2's size stored in warehouse: 3
+Batch 2's vaccine stored in warehouse: Pfizer
+Total Vaccines stored: 6
+-----WAREHOUSE DATA------
+Warehouse name: VacWare
+Warehouse Location: Islamabad
+Warehouse Capacity: 200
+Warehouse's supplier ID: 2222
+Batches Info:-
+Batch 1's ID stored in warehouse : 3483
+Batch 1's size stored in warehouse: 3
+Batch 1's vaccine stored in warehouse: Pfizer
+Total Vaccines stored: 3
+-----WAREHOUSE DATA------
+Warehouse name: GovtWare
+Warehouse Location: Rawalpindi
+Warehouse Capacity: 500
+Warehouse's supplier ID: 7008
+Batches Info:-
+Batch 1's ID stored in warehouse : 3333
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Pfizer
+Batch 2's ID stored in warehouse : 3483
+Batch 2's size stored in warehouse: 2
+Batch 2's vaccine stored in warehouse: Pfizer
+Total Vaccines stored: 4
+-----WAREHOUSE DATA------
+Warehouse name: GovtWare
+Warehouse Location: Rawalpindi
+Warehouse Capacity: 500
+Warehouse's supplier ID: 7008
+Batches Info:-
+Batch 1's ID stored in warehouse : 3483
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Pfizer
+Total Vaccines stored: 2
+-----WAREHOUSE DATA------
+Warehouse name: DHAWare
+Warehouse Location: Islamabad
+Warehouse Capacity: 200
+Warehouse's supplier ID: 5555
+Batches Info:-
+Batch 1's ID stored in warehouse : 2211
+Batch 1's size stored in warehouse: 1
+Batch 1's vaccine stored in warehouse: Pfizer
+Batch 2's ID stored in warehouse : 2361
+Batch 2's size stored in warehouse: 1
+Batch 2's vaccine stored in warehouse: Pfizer
+Total Vaccines stored: 2
+-----WAREHOUSE DATA------
+Warehouse name: DHAWare
+Warehouse Location: Islamabad
+Warehouse Capacity: 200
+Warehouse's supplier ID: 5555
+Batches Info:-
+Batch 1's ID stored in warehouse : 2361
+Batch 1's size stored in warehouse: 1
+Batch 1's vaccine stored in warehouse: Pfizer
+Total Vaccines stored: 0-----WAREHOUSE DATA------
+Warehouse name: 6666
+Warehouse Location: Islamabad
+Warehouse Capacity: 300
+Warehouse's supplier ID: 6666
+Batches Info:-
+Batch 1's ID stored in warehouse : 111
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Moderna
+Batch 2's ID stored in warehouse : 261
+Batch 2's size stored in warehouse: 2
+Batch 2's vaccine stored in warehouse: Moderna
+Total Vaccines stored: 4
+-----WAREHOUSE DATA------
+Warehouse name: 6666
+Warehouse Location: Islamabad
+Warehouse Capacity: 300
+Warehouse's supplier ID: 6666
+Batches Info:-
+Batch 1's ID stored in warehouse : 261
+Batch 1's size stored in warehouse: 2
+Batch 1's vaccine stored in warehouse: Moderna
+Total Vaccines stored: 2
